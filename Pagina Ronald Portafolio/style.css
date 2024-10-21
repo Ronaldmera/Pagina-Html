@@ -69,12 +69,15 @@ body {
     font-weight: 800;
     font-size: x-large;
     color: white;
+    font-family:cursive;
 }
 .info .nombre{
     display: flex;
     /* background-color: rgb(64, 177, 60); */
     align-items: center;
     color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
 }
 .destacado{
     color: rgb(135, 241, 153);
@@ -87,6 +90,7 @@ body {
     position: relative;
     bottom: 30px;
     color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .contenido .mas{
     color: white;
@@ -94,6 +98,7 @@ body {
     position: relative;
     bottom: 47px;
     padding-right: 27px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .contenido .imagen{
